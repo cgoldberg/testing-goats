@@ -1,14 +1,16 @@
 testing-goats
 =============
 
-obey the goat
--------------
+**Obey the goat.**
 
-Python Testing Goat:
+_Python Testing Goats:_
+
+----
 
 ![testing goat](https://raw.github.com/cgoldberg/testing-goats/master/kid-goat_small.png "kid goat")
-![testing goat](https://raw.github.com/cgoldberg/testing-goats/master/kid-goat_large.png "kid goat")
+
+----
+
 ![testing goat](https://raw.github.com/cgoldberg/testing-goats/master/baby-goats_small.png "baby goats")
-![testing goat](https://raw.github.com/cgoldberg/testing-goats/master/baby-goats_large.png "baby goats")
 
 ----
